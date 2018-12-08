@@ -5,4 +5,5 @@ git modify
 
 git distributed
 
+add license
 
