@@ -7,3 +7,4 @@ git distributed
 
 add license
 
+creating a new branch is quick.
